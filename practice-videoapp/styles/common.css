@@ -1,3 +1,9 @@
 /* 全ページ共通の CSS */
 /* 全ての HTML ファイルで link タグを使って common.css を読み込んでいることを確認してください. */
 
+#appName {
+  background-color: red;
+  color: white;
+  padding: 6px;
+}
+

@@ -1,3 +1,12 @@
 /* 再生ページ専用の CSS */
 /* 再生ページの HTML ファイルで common.css と player.css の両方を読み込んでいることを確認してください. */
 
+#video {
+  width: 100%;
+}
+
+#description {
+  border: 1px solid gray;
+  padding: 8px;
+}
+

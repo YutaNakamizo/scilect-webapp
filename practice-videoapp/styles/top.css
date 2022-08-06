@@ -1,3 +1,7 @@
 /* トップページ専用の CSS */
 /* トップページの HTML ファイルで common.css と top.css の両方を読み込んでいることを確認してください. */
 
+h2 {
+  border-bottom: 1px solid red;
+}
+
