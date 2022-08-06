@@ -1,1 +1,15 @@
+h1 {
+  color: #ffbb00;
+}
+
+h2 {
+  margin: 8px;
+  padding: 12px;
+  background-color: #00ffff;
+  width: 20%;
+}
+
+.myname {
+  font-size: 24px;
+}
 
