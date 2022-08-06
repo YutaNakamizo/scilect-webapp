@@ -1,0 +1,25 @@
+{
+  "name": "scilect-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/server --",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YutaNakamizo/scilect-webapp.git"
+  },
+  "keywords": [],
+  "author": "Yuta NAKAMIZO <yuta.nakamizo@ggtk.app> (https://ggtk.app/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YutaNakamizo/scilect-webapp/issues"
+  },
+  "homepage": "https://github.com/YutaNakamizo/scilect-webapp#readme",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "open": "^8.4.0"
+  }
+}
